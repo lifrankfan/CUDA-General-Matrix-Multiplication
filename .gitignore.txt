@@ -1,4 +1,0 @@
-*.user
-*.exe
-x64/
-data/
